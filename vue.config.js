@@ -10,7 +10,7 @@ module.exports = {
                 changeOrigin: true,
             },
         },
-        port: 8020,
+        port: 8030,
     },
 
 };
